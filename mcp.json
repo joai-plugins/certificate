@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "joai-certificate": {
+      "url": "https://cortex.joai.ai/mcp/apps/certificate"
+    }
+  }
+}
